@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "portail de demande de facture proforma",
+    "owner": "Analyste fonctionnelle",
+    "description": "le portail va permettre.......",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "dev"
+      },
+      {
+        "name": "tester"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "facture",
+        "diagramType": "Générique",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "TL Fonctionnelle",
+    "threatTop": 0
+  }
+}
